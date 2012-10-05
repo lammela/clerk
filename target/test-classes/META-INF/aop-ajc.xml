@@ -1,0 +1,9 @@
+<aspectj>
+<aspects>
+<aspect name="org.clerk.domain.DataRowDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="org.clerk.domain.DataRowIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="org.clerk.domain.DataRowDataOnDemand_Roo_Configurable"/>
+<aspect name="org.clerk.domain.DataRowIntegrationTest_Roo_Configurable"/>
+</aspects>
+</aspectj>
+

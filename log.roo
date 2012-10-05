@@ -1,0 +1,13 @@
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-10-04 11:56:11
+hint
+project --topLevelPackage org.clerk
+hint
+jpa setup --database POSTGRES --provider HIBERNATE 
+hint
+backup
+// [failed] entity jpa --class org.clerk.domain.Data --testAutomatically 
+entity jpa --class org.clerk.domain.DataRow --testAutomatically 
+perform package
+perform package
+perform package
+backup

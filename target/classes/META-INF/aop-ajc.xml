@@ -1,0 +1,9 @@
+<aspectj>
+<aspects>
+<aspect name="org.clerk.domain.DataRow_Roo_Jpa_Entity"/>
+<aspect name="org.clerk.domain.DataRow_Roo_Jpa_ActiveRecord"/>
+<aspect name="org.clerk.domain.DataRow_Roo_Configurable"/>
+<aspect name="org.clerk.domain.DataRow_Roo_ToString"/>
+</aspects>
+</aspectj>
+
